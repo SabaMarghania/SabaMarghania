@@ -1,5 +1,8 @@
-### Hi there 👋
 
+👋 Hi, I’m @SabaMarghania; <br>
+👀 I’m interested in Web/Mobile Development; <br>
+🌱 Currently learning Web Development; <br>
+📫 How to reach me: https://www.linkedin.com/in/saba-marghania-6376241b3/;<br>
 <!--
 **SabaMarghania/SabaMarghania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
